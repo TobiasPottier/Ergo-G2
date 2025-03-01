@@ -4,7 +4,7 @@
 
 ## 🎮 Project Overview
 
-The *Visual GlobeTrotter* project leverages Unity and AI to create an engaging virtual environment where users can explore different locations and interact with an AI-powered guide. The experience is designed to be educational, engaging, and fun.
+The *Virtual GlobeTrotter* project leverages Unity and AI to create an engaging virtual environment where users can explore different locations and interact with an AI-powered guide. The experience is designed to be educational, engaging, and fun.
 
 ### 🔹 Features:
 - **Virtual Travel:** Explore different environments with an interactive virtual guide.
